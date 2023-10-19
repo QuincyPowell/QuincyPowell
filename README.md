@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuincyPowell
-- 👀 I’m fairly fresh out of college and starting my journey as a software developer.
-- 🌱 I’m currently learning anything I can, to be honest. Haven't really found my niche yet.
-- 💞️ I’m looking to collaborate on projects that benefit the public.
+- 👀 I'm emerging as a software engineer, and have a lot of experience in general information technology.
+- 🌱 I’m currently learning a little bit of anything and have not really found my niche yet.
+- 💞️ I am most interested in contributing to the public good.
 - 📫 Quincy\<dot\>Powell\<plus\>github\<at\>gmail\<dot\>com
 
 <!---
